@@ -142,6 +142,8 @@ def get_grammar_string(language, template, verbs, subject_nouns, object_nouns,
         V[AGR='pl'] -> {verbs[f'{language}_plural']}
         V[AGR='sg'] -> {verbs[f'{language}_singular']}
         PP -> P NP_pos
+        PP_pn -> P PN
+        PN -> {proper_nouns[language]}
         CONJ -> {conjunctions[language]}
         ADV1 -> {adverbs1[language]}
         ADV2 -> {adverbs2[language]}
@@ -149,8 +151,7 @@ def get_grammar_string(language, template, verbs, subject_nouns, object_nouns,
         NP_pos -> {position_nouns[f'{language}_singular']}
         """
 
-    adv_nl = "ADV1" if language == "nl" else ""
-    adv_en = "" if language == "nl" else "ADV1"
+    adv = "ADV1"
     compl = "NP_obj[AGR='sg']"
 
     # SIMPLE template: "the woman admires"
@@ -162,19 +163,18 @@ def get_grammar_string(language, template, verbs, subject_nouns, object_nouns,
 
     # ADV template: "the woman probably admires"
     elif template == "adv":
-        sg_correct = f"S -> NP[AGR='sg']'*' {adv_en} VP[AGR='sg']'^' {compl} {adv_nl}"
-        pl_correct = f"S -> NP[AGR='pl']'*' {adv_en} VP[AGR='pl']'^' {compl} {adv_nl}"
-        sg_incorrect = f"S -> NP[AGR='sg']'*' {adv_en} VP[AGR='pl']'^' {compl} {adv_nl}"
-        pl_incorrect = f"S -> NP[AGR='pl']'*' {adv_en} VP[AGR='sg']'^' {compl} {adv_nl}"
+        sg_correct = f"S -> NP[AGR='sg']'*' '['{adv}']' VP[AGR='sg']'^' {compl} '='"
+        pl_correct = f"S -> NP[AGR='pl']'*' '['{adv}']' VP[AGR='pl']'^' {compl} '='"
+        sg_incorrect = f"S -> NP[AGR='sg']'*' '['{adv}']' VP[AGR='pl']'^' {compl} '='"
+        pl_incorrect = f"S -> NP[AGR='pl']'*' '['{adv}']' VP[AGR='sg']'^' {compl} '='"
 
     # ADVADV template: "the woman now probably admires"
     elif template == "adv_adv":
-        adv_nl = "ADV2 ADV1" if language == "nl" else ""
-        adv_en = "" if language == "nl" else "ADV2 ADV1"
-        sg_correct = f"S -> NP[AGR='sg']'*' {adv_en} VP[AGR='sg']'^' {compl} {adv_nl}"
-        pl_correct = f"S -> NP[AGR='pl']'*' {adv_en} VP[AGR='pl']'^' {compl} {adv_nl}"
-        sg_incorrect = f"S -> NP[AGR='sg']'*' {adv_en} VP[AGR='pl']'^' {compl} {adv_nl}"
-        pl_incorrect = f"S -> NP[AGR='pl']'*' {adv_en} VP[AGR='sg']'^' {compl} {adv_nl}"
+        adv = "ADV2 ADV1"
+        sg_correct = f"S -> NP[AGR='sg']'*' '['{adv}']' VP[AGR='sg']'^' {compl} '='"
+        pl_correct = f"S -> NP[AGR='pl']'*' '['{adv}']' VP[AGR='pl']'^' {compl} '='"
+        sg_incorrect = f"S -> NP[AGR='sg']'*' '['{adv}']' VP[AGR='pl']'^' {compl} '='"
+        pl_incorrect = f"S -> NP[AGR='pl']'*' '['{adv}']' VP[AGR='sg']'^' {compl} '='"
 
     # ADVCONJUNCTION template: "the woman probably and certainly admires"
     elif template == "adv_conjunction":
@@ -183,19 +183,18 @@ def get_grammar_string(language, template, verbs, subject_nouns, object_nouns,
             ADV3 -> {" | ".join(adverbs1[language].split(" | ")[:n])}
             ADV4 -> {" | ".join(adverbs1[language].split(" | ")[n:])}
         """
-        adv_nl = "ADV3 CONJ ADV4" if language == "nl" else ""
-        adv_en = "" if language == "nl" else "ADV3 CONJ ADV4"
-        sg_correct = f"S -> NP[AGR='sg']'*' {adv_en} VP[AGR='sg']'^' {compl} {adv_nl}"
-        pl_correct = f"S -> NP[AGR='pl']'*' {adv_en} VP[AGR='pl']'^' {compl} {adv_nl}"
-        sg_incorrect = f"S -> NP[AGR='sg']'*' {adv_en} VP[AGR='pl']'^' {compl} {adv_nl}"
-        pl_incorrect = f"S -> NP[AGR='pl']'*' {adv_en} VP[AGR='sg']'^' {compl} {adv_nl}"
+        adv = "ADV3 CONJ ADV4"
+        sg_correct = f"S -> NP[AGR='sg']'*' '['{adv}']' VP[AGR='sg']'^' {compl} '='"
+        pl_correct = f"S -> NP[AGR='pl']'*' '['{adv}']' VP[AGR='pl']'^' {compl} '='"
+        sg_incorrect = f"S -> NP[AGR='sg']'*' '['{adv}']' VP[AGR='pl']'^' {compl} '='"
+        pl_incorrect = f"S -> NP[AGR='pl']'*' '['{adv}']' VP[AGR='sg']'^' {compl} '='"
 
     # NAMEPP template: "the woman near Mary admires"
     elif template == "name_pp":
-        sg_correct = f"S -> NP[AGR='sg']'*' PP VP[AGR='sg']'^' {compl}"
-        pl_correct = f"S -> NP[AGR='pl']'*' PP VP[AGR='pl']'^' {compl}"
-        sg_incorrect = f"S -> NP[AGR='sg']'*' PP VP[AGR='pl']'^' {compl}"
-        pl_incorrect = f"S -> NP[AGR='pl']'*' PP VP[AGR='sg']'^' {compl}"
+        sg_correct = f"S -> NP[AGR='sg']'*' PP_pn VP[AGR='sg']'^' {compl}"
+        pl_correct = f"S -> NP[AGR='pl']'*' PP_pn VP[AGR='pl']'^' {compl}"
+        sg_incorrect = f"S -> NP[AGR='sg']'*' PP_pn VP[AGR='pl']'^' {compl}"
+        pl_incorrect = f"S -> NP[AGR='pl']'*' PP_pn VP[AGR='sg']'^' {compl}"
 
     # NOUNPP template: "the woman behind the cat admires"
     elif template == "noun_pp":
@@ -206,14 +205,14 @@ def get_grammar_string(language, template, verbs, subject_nouns, object_nouns,
 
     # NOUNPPADV template: "the woman behind the cat certainly admires"
     elif template == "noun_pp_adv":
-        sg_correct = f"S -> NP[AGR='sg']'*' PP {adv_en} VP[AGR='sg']'^' {compl} {adv_nl}"
-        pl_correct = f"S -> NP[AGR='pl']'*' PP {adv_en} VP[AGR='pl']'^' {compl} {adv_nl}"
-        sg_incorrect = f"S -> NP[AGR='sg']'*' PP {adv_en} VP[AGR='pl']'^' {compl} {adv_nl}"
-        pl_incorrect = f"S -> NP[AGR='pl']'*' PP {adv_en} VP[AGR='sg']'^' {compl} {adv_nl}"
+        sg_correct = f"S -> NP[AGR='sg']'*' PP '['{adv}']' VP[AGR='sg']'^' {compl} '='"
+        pl_correct = f"S -> NP[AGR='pl']'*' PP '['{adv}']' VP[AGR='pl']'^' {compl} '='"
+        sg_incorrect = f"S -> NP[AGR='sg']'*' PP '['{adv}']' VP[AGR='pl']'^' {compl} '='"
+        pl_incorrect = f"S -> NP[AGR='pl']'*' PP '['{adv}']' VP[AGR='sg']'^' {compl} '='"
     return grammar, sg_correct, pl_correct, sg_incorrect, pl_incorrect
 
 
-def post_process(sentence):
+def post_process(sentence, language):
     """
     Cleanup the sentence and extract the position of the subject and verb.
 
@@ -226,12 +225,22 @@ def post_process(sentence):
         verb_index (int): index of the verb
     """
     sentence = sentence[0].upper() + sentence[1:]
+
+    # Move adverb in Dutch
+    if language == "nl":
+        adv = sentence[sentence.find("["):sentence.find("]") + 1]
+        sentence = sentence.replace(adv, "").replace("=", adv)
+    sentence = sentence.replace('[', "").replace("]", "").replace("=", "")
+
+    # Find subject and verb indices
     subject_index = sentence.split().index("*") - 1
     verb_index = sentence.split().index("^") - 2
     sentence = sentence.replace(" *", "").replace(" ^", "").split()
+
+    # Create incomplete and complete sentences
     completed = " ".join(sentence) + "."
     sentence = " ".join(sentence[:verb_index+1])
-    return sentence, subject_index, verb_index, completed
+    return sentence, str(subject_index), str(verb_index), completed
 
 
 if __name__ == "__main__":
@@ -242,30 +251,37 @@ if __name__ == "__main__":
                         help="The template of the output sentences.")
     parser.add_argument("-o", "--output", type=str, default="",
                         help="Folder name to store the generated data in.")
-    parser.add_argument("--verbs_num", type=int, default=-1,
-                        help="Maximum number of verbs to use.")
-    parser.add_argument("--position_nouns_num", type=int, default=-1,
-                        help="Maximum number of position nouns to use.")
     parser.add_argument("--adverbs1_num", type=int, default=-1,
                         help="Maximum number of adverbs1 to use.")
-
+    parser.add_argument("--position_nouns_num", type=int, default=-1,
+                        help="Maximum number of position nouns to use.")
+    parser.add_argument("--prepositions_num", type=int, default=-1,
+                        help="Maximum number of prepositions to use.")
+    parser.add_argument("--proper_nouns_num", type=int, default=-1,
+                        help="Maximum number of proper nouns to use.")
+    parser.add_argument("--subject_nouns_num", type=int, default=-1,
+                        help="Maximum number of subject nouns to use.")
+    parser.add_argument("--verbs_num", type=int, default=-1,
+                        help="Maximum number of verbs to use.")
     args = parser.parse_args()
 
     # retrieve the vocabulary to use form tsv files
-    l = args.template in ["noun_pp_adv"]
-    verbs = read_words("vocabulary/verbs.tsv", args.verbs_num)
-    subject_nouns = read_words("vocabulary/subject_nouns.tsv")
+    adverbs1 = read_words("vocabulary/adverbs1.tsv", args.adverbs1_num)
+    adverbs2 = read_words("vocabulary/adverbs2.tsv")
+    conjunctions = read_words("vocabulary/conjunctions.tsv")
     object_nouns = read_words("vocabulary/object_nouns.tsv")
     position_nouns = read_words(
         "vocabulary/position_nouns.tsv", args.position_nouns_num)
-    prepositions = read_words("vocabulary/prepositions.tsv")
-    adverbs1 = read_words("vocabulary/adverbs1.tsv", args.adverbs1_num)
-    adverbs2 = read_words("vocabulary/adverbs2.tsv")
-    proper_nouns = read_words("vocabulary/proper_nouns.tsv")
-    conjunctions = read_words("vocabulary/conjunctions.tsv")
+    prepositions = read_words("vocabulary/prepositions.tsv",
+        args.prepositions_num)
+    proper_nouns = read_words("vocabulary/proper_nouns.tsv",
+        args.proper_nouns_num)
+    subject_nouns = read_words(
+        "vocabulary/subject_nouns.tsv", args.subject_nouns_num)
+    verbs = read_words("vocabulary/verbs.tsv", args.verbs_num)
 
     # iterate over languages, currently NL and EN implemented
-    for language in ["en", "nl"]:
+    for language in ["nl", "en"]:
         print(f"Generating data in {language}. This may take a while.")
 
         # generate the grammar to use
@@ -281,10 +297,17 @@ if __name__ == "__main__":
         )
 
         # postprocess and save in file
+        data = []
+        for (agr, num1), (disagr, num2) in zip(data_correct, data_incorrect):
+            assert num1 == num2
+            agr, subject_index, verb_index, compl = post_process(agr, language)
+            disagr, _, _, _ = post_process(disagr, language)
+            data.append((agr, disagr, str(num1), subject_index, verb_index, compl))
+
         filename = f"{language}_{args.template}.tsv"
+        header = "agreement\tdisagreement\tnumber\tsubject_index" + \
+            "\tverb_index\tcompleted\n"
         with open(os.path.join(args.output, filename), 'w') as f:
-            f.write("agreement\tdisagreement\tnumber\tsubject_index\tverb_index\tcompleted\n")
-            for (agr, num), (disagr, _) in zip(data_correct, data_incorrect):
-                agr, subject_index, verb_index, completed = post_process(agr)
-                disagr, _, _, _ = post_process(disagr)
-                f.write(f"{agr}\t{disagr}\t{num}\t{subject_index}\t{verb_index}\t{completed}\n")
+            f.write(header)
+            for line in data:
+                f.write('\t'.join(line) + "\n")

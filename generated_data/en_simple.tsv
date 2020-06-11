@@ -1,521 +1,391 @@
 agreement	disagreement	number	subject_index	verb_index	completed
-The teacher avoids	The teacher avoid	singular	1	2	The teacher avoids the person.
-The teacher criticizes	The teacher criticize	singular	1	2	The teacher criticizes the person.
-The teacher encourages	The teacher encourage	singular	1	2	The teacher encourages the person.
-The teacher discourages	The teacher discourage	singular	1	2	The teacher discourages the person.
-The teacher confuses	The teacher confuse	singular	1	2	The teacher confuses the person.
-The teacher understands	The teacher understand	singular	1	2	The teacher understands the person.
-The teacher greets	The teacher greet	singular	1	2	The teacher greets the person.
-The teacher knows	The teacher know	singular	1	2	The teacher knows the person.
-The teacher observes	The teacher observe	singular	1	2	The teacher observes the person.
-The teacher stimulates	The teacher stimulate	singular	1	2	The teacher stimulates the person.
-The teacher admires	The teacher admire	singular	1	2	The teacher admires the person.
-The teacher inspires	The teacher inspire	singular	1	2	The teacher inspires the person.
-The teacher remembers	The teacher remember	singular	1	2	The teacher remembers the person.
-The poet avoids	The poet avoid	singular	1	2	The poet avoids the person.
-The poet criticizes	The poet criticize	singular	1	2	The poet criticizes the person.
-The poet encourages	The poet encourage	singular	1	2	The poet encourages the person.
-The poet discourages	The poet discourage	singular	1	2	The poet discourages the person.
-The poet confuses	The poet confuse	singular	1	2	The poet confuses the person.
-The poet understands	The poet understand	singular	1	2	The poet understands the person.
-The poet greets	The poet greet	singular	1	2	The poet greets the person.
-The poet knows	The poet know	singular	1	2	The poet knows the person.
-The poet observes	The poet observe	singular	1	2	The poet observes the person.
-The poet stimulates	The poet stimulate	singular	1	2	The poet stimulates the person.
-The poet admires	The poet admire	singular	1	2	The poet admires the person.
-The poet inspires	The poet inspire	singular	1	2	The poet inspires the person.
-The poet remembers	The poet remember	singular	1	2	The poet remembers the person.
-The singer avoids	The singer avoid	singular	1	2	The singer avoids the person.
-The singer criticizes	The singer criticize	singular	1	2	The singer criticizes the person.
-The singer encourages	The singer encourage	singular	1	2	The singer encourages the person.
-The singer discourages	The singer discourage	singular	1	2	The singer discourages the person.
-The singer confuses	The singer confuse	singular	1	2	The singer confuses the person.
-The singer understands	The singer understand	singular	1	2	The singer understands the person.
-The singer greets	The singer greet	singular	1	2	The singer greets the person.
-The singer knows	The singer know	singular	1	2	The singer knows the person.
-The singer observes	The singer observe	singular	1	2	The singer observes the person.
-The singer stimulates	The singer stimulate	singular	1	2	The singer stimulates the person.
-The singer admires	The singer admire	singular	1	2	The singer admires the person.
-The singer inspires	The singer inspire	singular	1	2	The singer inspires the person.
-The singer remembers	The singer remember	singular	1	2	The singer remembers the person.
-The victim avoids	The victim avoid	singular	1	2	The victim avoids the person.
-The victim criticizes	The victim criticize	singular	1	2	The victim criticizes the person.
-The victim encourages	The victim encourage	singular	1	2	The victim encourages the person.
-The victim discourages	The victim discourage	singular	1	2	The victim discourages the person.
-The victim confuses	The victim confuse	singular	1	2	The victim confuses the person.
-The victim understands	The victim understand	singular	1	2	The victim understands the person.
-The victim greets	The victim greet	singular	1	2	The victim greets the person.
-The victim knows	The victim know	singular	1	2	The victim knows the person.
-The victim observes	The victim observe	singular	1	2	The victim observes the person.
-The victim stimulates	The victim stimulate	singular	1	2	The victim stimulates the person.
-The victim admires	The victim admire	singular	1	2	The victim admires the person.
-The victim inspires	The victim inspire	singular	1	2	The victim inspires the person.
-The victim remembers	The victim remember	singular	1	2	The victim remembers the person.
-The aunt avoids	The aunt avoid	singular	1	2	The aunt avoids the person.
-The aunt criticizes	The aunt criticize	singular	1	2	The aunt criticizes the person.
-The aunt encourages	The aunt encourage	singular	1	2	The aunt encourages the person.
-The aunt discourages	The aunt discourage	singular	1	2	The aunt discourages the person.
-The aunt confuses	The aunt confuse	singular	1	2	The aunt confuses the person.
-The aunt understands	The aunt understand	singular	1	2	The aunt understands the person.
-The aunt greets	The aunt greet	singular	1	2	The aunt greets the person.
-The aunt knows	The aunt know	singular	1	2	The aunt knows the person.
-The aunt observes	The aunt observe	singular	1	2	The aunt observes the person.
-The aunt stimulates	The aunt stimulate	singular	1	2	The aunt stimulates the person.
-The aunt admires	The aunt admire	singular	1	2	The aunt admires the person.
-The aunt inspires	The aunt inspire	singular	1	2	The aunt inspires the person.
-The aunt remembers	The aunt remember	singular	1	2	The aunt remembers the person.
-The uncle avoids	The uncle avoid	singular	1	2	The uncle avoids the person.
-The uncle criticizes	The uncle criticize	singular	1	2	The uncle criticizes the person.
-The uncle encourages	The uncle encourage	singular	1	2	The uncle encourages the person.
-The uncle discourages	The uncle discourage	singular	1	2	The uncle discourages the person.
-The uncle confuses	The uncle confuse	singular	1	2	The uncle confuses the person.
-The uncle understands	The uncle understand	singular	1	2	The uncle understands the person.
-The uncle greets	The uncle greet	singular	1	2	The uncle greets the person.
-The uncle knows	The uncle know	singular	1	2	The uncle knows the person.
-The uncle observes	The uncle observe	singular	1	2	The uncle observes the person.
-The uncle stimulates	The uncle stimulate	singular	1	2	The uncle stimulates the person.
-The uncle admires	The uncle admire	singular	1	2	The uncle admires the person.
-The uncle inspires	The uncle inspire	singular	1	2	The uncle inspires the person.
-The uncle remembers	The uncle remember	singular	1	2	The uncle remembers the person.
-The doctor avoids	The doctor avoid	singular	1	2	The doctor avoids the person.
-The doctor criticizes	The doctor criticize	singular	1	2	The doctor criticizes the person.
-The doctor encourages	The doctor encourage	singular	1	2	The doctor encourages the person.
-The doctor discourages	The doctor discourage	singular	1	2	The doctor discourages the person.
-The doctor confuses	The doctor confuse	singular	1	2	The doctor confuses the person.
-The doctor understands	The doctor understand	singular	1	2	The doctor understands the person.
-The doctor greets	The doctor greet	singular	1	2	The doctor greets the person.
-The doctor knows	The doctor know	singular	1	2	The doctor knows the person.
-The doctor observes	The doctor observe	singular	1	2	The doctor observes the person.
-The doctor stimulates	The doctor stimulate	singular	1	2	The doctor stimulates the person.
-The doctor admires	The doctor admire	singular	1	2	The doctor admires the person.
-The doctor inspires	The doctor inspire	singular	1	2	The doctor inspires the person.
-The doctor remembers	The doctor remember	singular	1	2	The doctor remembers the person.
-The man avoids	The man avoid	singular	1	2	The man avoids the person.
-The man criticizes	The man criticize	singular	1	2	The man criticizes the person.
-The man encourages	The man encourage	singular	1	2	The man encourages the person.
-The man discourages	The man discourage	singular	1	2	The man discourages the person.
-The man confuses	The man confuse	singular	1	2	The man confuses the person.
-The man understands	The man understand	singular	1	2	The man understands the person.
-The man greets	The man greet	singular	1	2	The man greets the person.
-The man knows	The man know	singular	1	2	The man knows the person.
-The man observes	The man observe	singular	1	2	The man observes the person.
-The man stimulates	The man stimulate	singular	1	2	The man stimulates the person.
-The man admires	The man admire	singular	1	2	The man admires the person.
-The man inspires	The man inspire	singular	1	2	The man inspires the person.
-The man remembers	The man remember	singular	1	2	The man remembers the person.
-The farmer avoids	The farmer avoid	singular	1	2	The farmer avoids the person.
-The farmer criticizes	The farmer criticize	singular	1	2	The farmer criticizes the person.
-The farmer encourages	The farmer encourage	singular	1	2	The farmer encourages the person.
-The farmer discourages	The farmer discourage	singular	1	2	The farmer discourages the person.
-The farmer confuses	The farmer confuse	singular	1	2	The farmer confuses the person.
-The farmer understands	The farmer understand	singular	1	2	The farmer understands the person.
-The farmer greets	The farmer greet	singular	1	2	The farmer greets the person.
-The farmer knows	The farmer know	singular	1	2	The farmer knows the person.
-The farmer observes	The farmer observe	singular	1	2	The farmer observes the person.
-The farmer stimulates	The farmer stimulate	singular	1	2	The farmer stimulates the person.
-The farmer admires	The farmer admire	singular	1	2	The farmer admires the person.
-The farmer inspires	The farmer inspire	singular	1	2	The farmer inspires the person.
-The farmer remembers	The farmer remember	singular	1	2	The farmer remembers the person.
-The athlete avoids	The athlete avoid	singular	1	2	The athlete avoids the person.
-The athlete criticizes	The athlete criticize	singular	1	2	The athlete criticizes the person.
-The athlete encourages	The athlete encourage	singular	1	2	The athlete encourages the person.
-The athlete discourages	The athlete discourage	singular	1	2	The athlete discourages the person.
-The athlete confuses	The athlete confuse	singular	1	2	The athlete confuses the person.
-The athlete understands	The athlete understand	singular	1	2	The athlete understands the person.
-The athlete greets	The athlete greet	singular	1	2	The athlete greets the person.
-The athlete knows	The athlete know	singular	1	2	The athlete knows the person.
-The athlete observes	The athlete observe	singular	1	2	The athlete observes the person.
-The athlete stimulates	The athlete stimulate	singular	1	2	The athlete stimulates the person.
-The athlete admires	The athlete admire	singular	1	2	The athlete admires the person.
-The athlete inspires	The athlete inspire	singular	1	2	The athlete inspires the person.
-The athlete remembers	The athlete remember	singular	1	2	The athlete remembers the person.
-The friend avoids	The friend avoid	singular	1	2	The friend avoids the person.
-The friend criticizes	The friend criticize	singular	1	2	The friend criticizes the person.
-The friend encourages	The friend encourage	singular	1	2	The friend encourages the person.
-The friend discourages	The friend discourage	singular	1	2	The friend discourages the person.
-The friend confuses	The friend confuse	singular	1	2	The friend confuses the person.
-The friend understands	The friend understand	singular	1	2	The friend understands the person.
-The friend greets	The friend greet	singular	1	2	The friend greets the person.
-The friend knows	The friend know	singular	1	2	The friend knows the person.
-The friend observes	The friend observe	singular	1	2	The friend observes the person.
-The friend stimulates	The friend stimulate	singular	1	2	The friend stimulates the person.
-The friend admires	The friend admire	singular	1	2	The friend admires the person.
-The friend inspires	The friend inspire	singular	1	2	The friend inspires the person.
-The friend remembers	The friend remember	singular	1	2	The friend remembers the person.
-The kid avoids	The kid avoid	singular	1	2	The kid avoids the person.
-The kid criticizes	The kid criticize	singular	1	2	The kid criticizes the person.
-The kid encourages	The kid encourage	singular	1	2	The kid encourages the person.
-The kid discourages	The kid discourage	singular	1	2	The kid discourages the person.
-The kid confuses	The kid confuse	singular	1	2	The kid confuses the person.
-The kid understands	The kid understand	singular	1	2	The kid understands the person.
-The kid greets	The kid greet	singular	1	2	The kid greets the person.
-The kid knows	The kid know	singular	1	2	The kid knows the person.
-The kid observes	The kid observe	singular	1	2	The kid observes the person.
-The kid stimulates	The kid stimulate	singular	1	2	The kid stimulates the person.
-The kid admires	The kid admire	singular	1	2	The kid admires the person.
-The kid inspires	The kid inspire	singular	1	2	The kid inspires the person.
-The kid remembers	The kid remember	singular	1	2	The kid remembers the person.
-The lawyer avoids	The lawyer avoid	singular	1	2	The lawyer avoids the person.
-The lawyer criticizes	The lawyer criticize	singular	1	2	The lawyer criticizes the person.
-The lawyer encourages	The lawyer encourage	singular	1	2	The lawyer encourages the person.
-The lawyer discourages	The lawyer discourage	singular	1	2	The lawyer discourages the person.
-The lawyer confuses	The lawyer confuse	singular	1	2	The lawyer confuses the person.
-The lawyer understands	The lawyer understand	singular	1	2	The lawyer understands the person.
-The lawyer greets	The lawyer greet	singular	1	2	The lawyer greets the person.
-The lawyer knows	The lawyer know	singular	1	2	The lawyer knows the person.
-The lawyer observes	The lawyer observe	singular	1	2	The lawyer observes the person.
-The lawyer stimulates	The lawyer stimulate	singular	1	2	The lawyer stimulates the person.
-The lawyer admires	The lawyer admire	singular	1	2	The lawyer admires the person.
-The lawyer inspires	The lawyer inspire	singular	1	2	The lawyer inspires the person.
-The lawyer remembers	The lawyer remember	singular	1	2	The lawyer remembers the person.
-The guy avoids	The guy avoid	singular	1	2	The guy avoids the person.
-The guy criticizes	The guy criticize	singular	1	2	The guy criticizes the person.
-The guy encourages	The guy encourage	singular	1	2	The guy encourages the person.
-The guy discourages	The guy discourage	singular	1	2	The guy discourages the person.
-The guy confuses	The guy confuse	singular	1	2	The guy confuses the person.
-The guy understands	The guy understand	singular	1	2	The guy understands the person.
-The guy greets	The guy greet	singular	1	2	The guy greets the person.
-The guy knows	The guy know	singular	1	2	The guy knows the person.
-The guy observes	The guy observe	singular	1	2	The guy observes the person.
-The guy stimulates	The guy stimulate	singular	1	2	The guy stimulates the person.
-The guy admires	The guy admire	singular	1	2	The guy admires the person.
-The guy inspires	The guy inspire	singular	1	2	The guy inspires the person.
-The guy remembers	The guy remember	singular	1	2	The guy remembers the person.
-The mother avoids	The mother avoid	singular	1	2	The mother avoids the person.
-The mother criticizes	The mother criticize	singular	1	2	The mother criticizes the person.
-The mother encourages	The mother encourage	singular	1	2	The mother encourages the person.
-The mother discourages	The mother discourage	singular	1	2	The mother discourages the person.
-The mother confuses	The mother confuse	singular	1	2	The mother confuses the person.
-The mother understands	The mother understand	singular	1	2	The mother understands the person.
-The mother greets	The mother greet	singular	1	2	The mother greets the person.
-The mother knows	The mother know	singular	1	2	The mother knows the person.
-The mother observes	The mother observe	singular	1	2	The mother observes the person.
-The mother stimulates	The mother stimulate	singular	1	2	The mother stimulates the person.
-The mother admires	The mother admire	singular	1	2	The mother admires the person.
-The mother inspires	The mother inspire	singular	1	2	The mother inspires the person.
-The mother remembers	The mother remember	singular	1	2	The mother remembers the person.
-The woman avoids	The woman avoid	singular	1	2	The woman avoids the person.
-The woman criticizes	The woman criticize	singular	1	2	The woman criticizes the person.
-The woman encourages	The woman encourage	singular	1	2	The woman encourages the person.
-The woman discourages	The woman discourage	singular	1	2	The woman discourages the person.
-The woman confuses	The woman confuse	singular	1	2	The woman confuses the person.
-The woman understands	The woman understand	singular	1	2	The woman understands the person.
-The woman greets	The woman greet	singular	1	2	The woman greets the person.
-The woman knows	The woman know	singular	1	2	The woman knows the person.
-The woman observes	The woman observe	singular	1	2	The woman observes the person.
-The woman stimulates	The woman stimulate	singular	1	2	The woman stimulates the person.
-The woman admires	The woman admire	singular	1	2	The woman admires the person.
-The woman inspires	The woman inspire	singular	1	2	The woman inspires the person.
-The woman remembers	The woman remember	singular	1	2	The woman remembers the person.
-The father avoids	The father avoid	singular	1	2	The father avoids the person.
-The father criticizes	The father criticize	singular	1	2	The father criticizes the person.
-The father encourages	The father encourage	singular	1	2	The father encourages the person.
-The father discourages	The father discourage	singular	1	2	The father discourages the person.
-The father confuses	The father confuse	singular	1	2	The father confuses the person.
-The father understands	The father understand	singular	1	2	The father understands the person.
-The father greets	The father greet	singular	1	2	The father greets the person.
-The father knows	The father know	singular	1	2	The father knows the person.
-The father observes	The father observe	singular	1	2	The father observes the person.
-The father stimulates	The father stimulate	singular	1	2	The father stimulates the person.
-The father admires	The father admire	singular	1	2	The father admires the person.
-The father inspires	The father inspire	singular	1	2	The father inspires the person.
-The father remembers	The father remember	singular	1	2	The father remembers the person.
-The boy avoids	The boy avoid	singular	1	2	The boy avoids the person.
-The boy criticizes	The boy criticize	singular	1	2	The boy criticizes the person.
-The boy encourages	The boy encourage	singular	1	2	The boy encourages the person.
-The boy discourages	The boy discourage	singular	1	2	The boy discourages the person.
-The boy confuses	The boy confuse	singular	1	2	The boy confuses the person.
-The boy understands	The boy understand	singular	1	2	The boy understands the person.
-The boy greets	The boy greet	singular	1	2	The boy greets the person.
-The boy knows	The boy know	singular	1	2	The boy knows the person.
-The boy observes	The boy observe	singular	1	2	The boy observes the person.
-The boy stimulates	The boy stimulate	singular	1	2	The boy stimulates the person.
-The boy admires	The boy admire	singular	1	2	The boy admires the person.
-The boy inspires	The boy inspire	singular	1	2	The boy inspires the person.
-The boy remembers	The boy remember	singular	1	2	The boy remembers the person.
-The carpenter avoids	The carpenter avoid	singular	1	2	The carpenter avoids the person.
-The carpenter criticizes	The carpenter criticize	singular	1	2	The carpenter criticizes the person.
-The carpenter encourages	The carpenter encourage	singular	1	2	The carpenter encourages the person.
-The carpenter discourages	The carpenter discourage	singular	1	2	The carpenter discourages the person.
-The carpenter confuses	The carpenter confuse	singular	1	2	The carpenter confuses the person.
-The carpenter understands	The carpenter understand	singular	1	2	The carpenter understands the person.
-The carpenter greets	The carpenter greet	singular	1	2	The carpenter greets the person.
-The carpenter knows	The carpenter know	singular	1	2	The carpenter knows the person.
-The carpenter observes	The carpenter observe	singular	1	2	The carpenter observes the person.
-The carpenter stimulates	The carpenter stimulate	singular	1	2	The carpenter stimulates the person.
-The carpenter admires	The carpenter admire	singular	1	2	The carpenter admires the person.
-The carpenter inspires	The carpenter inspire	singular	1	2	The carpenter inspires the person.
-The carpenter remembers	The carpenter remember	singular	1	2	The carpenter remembers the person.
-The girl avoids	The girl avoid	singular	1	2	The girl avoids the person.
-The girl criticizes	The girl criticize	singular	1	2	The girl criticizes the person.
-The girl encourages	The girl encourage	singular	1	2	The girl encourages the person.
-The girl discourages	The girl discourage	singular	1	2	The girl discourages the person.
-The girl confuses	The girl confuse	singular	1	2	The girl confuses the person.
-The girl understands	The girl understand	singular	1	2	The girl understands the person.
-The girl greets	The girl greet	singular	1	2	The girl greets the person.
-The girl knows	The girl know	singular	1	2	The girl knows the person.
-The girl observes	The girl observe	singular	1	2	The girl observes the person.
-The girl stimulates	The girl stimulate	singular	1	2	The girl stimulates the person.
-The girl admires	The girl admire	singular	1	2	The girl admires the person.
-The girl inspires	The girl inspire	singular	1	2	The girl inspires the person.
-The girl remembers	The girl remember	singular	1	2	The girl remembers the person.
-The teachers avoid	The teachers avoids	plural	1	2	The teachers avoid the person.
-The teachers criticize	The teachers criticizes	plural	1	2	The teachers criticize the person.
-The teachers encourage	The teachers encourages	plural	1	2	The teachers encourage the person.
-The teachers discourage	The teachers discourages	plural	1	2	The teachers discourage the person.
-The teachers confuse	The teachers confuses	plural	1	2	The teachers confuse the person.
-The teachers understand	The teachers understands	plural	1	2	The teachers understand the person.
-The teachers greet	The teachers greets	plural	1	2	The teachers greet the person.
-The teachers know	The teachers knows	plural	1	2	The teachers know the person.
-The teachers observe	The teachers observes	plural	1	2	The teachers observe the person.
-The teachers stimulate	The teachers stimulates	plural	1	2	The teachers stimulate the person.
-The teachers admire	The teachers admires	plural	1	2	The teachers admire the person.
-The teachers inspire	The teachers inspires	plural	1	2	The teachers inspire the person.
-The teachers remember	The teachers remembers	plural	1	2	The teachers remember the person.
-The poets avoid	The poets avoids	plural	1	2	The poets avoid the person.
-The poets criticize	The poets criticizes	plural	1	2	The poets criticize the person.
-The poets encourage	The poets encourages	plural	1	2	The poets encourage the person.
-The poets discourage	The poets discourages	plural	1	2	The poets discourage the person.
-The poets confuse	The poets confuses	plural	1	2	The poets confuse the person.
-The poets understand	The poets understands	plural	1	2	The poets understand the person.
-The poets greet	The poets greets	plural	1	2	The poets greet the person.
-The poets know	The poets knows	plural	1	2	The poets know the person.
-The poets observe	The poets observes	plural	1	2	The poets observe the person.
-The poets stimulate	The poets stimulates	plural	1	2	The poets stimulate the person.
-The poets admire	The poets admires	plural	1	2	The poets admire the person.
-The poets inspire	The poets inspires	plural	1	2	The poets inspire the person.
-The poets remember	The poets remembers	plural	1	2	The poets remember the person.
-The singers avoid	The singers avoids	plural	1	2	The singers avoid the person.
-The singers criticize	The singers criticizes	plural	1	2	The singers criticize the person.
-The singers encourage	The singers encourages	plural	1	2	The singers encourage the person.
-The singers discourage	The singers discourages	plural	1	2	The singers discourage the person.
-The singers confuse	The singers confuses	plural	1	2	The singers confuse the person.
-The singers understand	The singers understands	plural	1	2	The singers understand the person.
-The singers greet	The singers greets	plural	1	2	The singers greet the person.
-The singers know	The singers knows	plural	1	2	The singers know the person.
-The singers observe	The singers observes	plural	1	2	The singers observe the person.
-The singers stimulate	The singers stimulates	plural	1	2	The singers stimulate the person.
-The singers admire	The singers admires	plural	1	2	The singers admire the person.
-The singers inspire	The singers inspires	plural	1	2	The singers inspire the person.
-The singers remember	The singers remembers	plural	1	2	The singers remember the person.
-The victims avoid	The victims avoids	plural	1	2	The victims avoid the person.
-The victims criticize	The victims criticizes	plural	1	2	The victims criticize the person.
-The victims encourage	The victims encourages	plural	1	2	The victims encourage the person.
-The victims discourage	The victims discourages	plural	1	2	The victims discourage the person.
-The victims confuse	The victims confuses	plural	1	2	The victims confuse the person.
-The victims understand	The victims understands	plural	1	2	The victims understand the person.
-The victims greet	The victims greets	plural	1	2	The victims greet the person.
-The victims know	The victims knows	plural	1	2	The victims know the person.
-The victims observe	The victims observes	plural	1	2	The victims observe the person.
-The victims stimulate	The victims stimulates	plural	1	2	The victims stimulate the person.
-The victims admire	The victims admires	plural	1	2	The victims admire the person.
-The victims inspire	The victims inspires	plural	1	2	The victims inspire the person.
-The victims remember	The victims remembers	plural	1	2	The victims remember the person.
-The aunts avoid	The aunts avoids	plural	1	2	The aunts avoid the person.
-The aunts criticize	The aunts criticizes	plural	1	2	The aunts criticize the person.
-The aunts encourage	The aunts encourages	plural	1	2	The aunts encourage the person.
-The aunts discourage	The aunts discourages	plural	1	2	The aunts discourage the person.
-The aunts confuse	The aunts confuses	plural	1	2	The aunts confuse the person.
-The aunts understand	The aunts understands	plural	1	2	The aunts understand the person.
-The aunts greet	The aunts greets	plural	1	2	The aunts greet the person.
-The aunts know	The aunts knows	plural	1	2	The aunts know the person.
-The aunts observe	The aunts observes	plural	1	2	The aunts observe the person.
-The aunts stimulate	The aunts stimulates	plural	1	2	The aunts stimulate the person.
-The aunts admire	The aunts admires	plural	1	2	The aunts admire the person.
-The aunts inspire	The aunts inspires	plural	1	2	The aunts inspire the person.
-The aunts remember	The aunts remembers	plural	1	2	The aunts remember the person.
-The uncles avoid	The uncles avoids	plural	1	2	The uncles avoid the person.
-The uncles criticize	The uncles criticizes	plural	1	2	The uncles criticize the person.
-The uncles encourage	The uncles encourages	plural	1	2	The uncles encourage the person.
-The uncles discourage	The uncles discourages	plural	1	2	The uncles discourage the person.
-The uncles confuse	The uncles confuses	plural	1	2	The uncles confuse the person.
-The uncles understand	The uncles understands	plural	1	2	The uncles understand the person.
-The uncles greet	The uncles greets	plural	1	2	The uncles greet the person.
-The uncles know	The uncles knows	plural	1	2	The uncles know the person.
-The uncles observe	The uncles observes	plural	1	2	The uncles observe the person.
-The uncles stimulate	The uncles stimulates	plural	1	2	The uncles stimulate the person.
-The uncles admire	The uncles admires	plural	1	2	The uncles admire the person.
-The uncles inspire	The uncles inspires	plural	1	2	The uncles inspire the person.
-The uncles remember	The uncles remembers	plural	1	2	The uncles remember the person.
-The doctors avoid	The doctors avoids	plural	1	2	The doctors avoid the person.
-The doctors criticize	The doctors criticizes	plural	1	2	The doctors criticize the person.
-The doctors encourage	The doctors encourages	plural	1	2	The doctors encourage the person.
-The doctors discourage	The doctors discourages	plural	1	2	The doctors discourage the person.
-The doctors confuse	The doctors confuses	plural	1	2	The doctors confuse the person.
-The doctors understand	The doctors understands	plural	1	2	The doctors understand the person.
-The doctors greet	The doctors greets	plural	1	2	The doctors greet the person.
-The doctors know	The doctors knows	plural	1	2	The doctors know the person.
-The doctors observe	The doctors observes	plural	1	2	The doctors observe the person.
-The doctors stimulate	The doctors stimulates	plural	1	2	The doctors stimulate the person.
-The doctors admire	The doctors admires	plural	1	2	The doctors admire the person.
-The doctors inspire	The doctors inspires	plural	1	2	The doctors inspire the person.
-The doctors remember	The doctors remembers	plural	1	2	The doctors remember the person.
-The men avoid	The men avoids	plural	1	2	The men avoid the person.
-The men criticize	The men criticizes	plural	1	2	The men criticize the person.
-The men encourage	The men encourages	plural	1	2	The men encourage the person.
-The men discourage	The men discourages	plural	1	2	The men discourage the person.
-The men confuse	The men confuses	plural	1	2	The men confuse the person.
-The men understand	The men understands	plural	1	2	The men understand the person.
-The men greet	The men greets	plural	1	2	The men greet the person.
-The men know	The men knows	plural	1	2	The men know the person.
-The men observe	The men observes	plural	1	2	The men observe the person.
-The men stimulate	The men stimulates	plural	1	2	The men stimulate the person.
-The men admire	The men admires	plural	1	2	The men admire the person.
-The men inspire	The men inspires	plural	1	2	The men inspire the person.
-The men remember	The men remembers	plural	1	2	The men remember the person.
-The farmers avoid	The farmers avoids	plural	1	2	The farmers avoid the person.
-The farmers criticize	The farmers criticizes	plural	1	2	The farmers criticize the person.
-The farmers encourage	The farmers encourages	plural	1	2	The farmers encourage the person.
-The farmers discourage	The farmers discourages	plural	1	2	The farmers discourage the person.
-The farmers confuse	The farmers confuses	plural	1	2	The farmers confuse the person.
-The farmers understand	The farmers understands	plural	1	2	The farmers understand the person.
-The farmers greet	The farmers greets	plural	1	2	The farmers greet the person.
-The farmers know	The farmers knows	plural	1	2	The farmers know the person.
-The farmers observe	The farmers observes	plural	1	2	The farmers observe the person.
-The farmers stimulate	The farmers stimulates	plural	1	2	The farmers stimulate the person.
-The farmers admire	The farmers admires	plural	1	2	The farmers admire the person.
-The farmers inspire	The farmers inspires	plural	1	2	The farmers inspire the person.
-The farmers remember	The farmers remembers	plural	1	2	The farmers remember the person.
-The athletes avoid	The athletes avoids	plural	1	2	The athletes avoid the person.
-The athletes criticize	The athletes criticizes	plural	1	2	The athletes criticize the person.
-The athletes encourage	The athletes encourages	plural	1	2	The athletes encourage the person.
-The athletes discourage	The athletes discourages	plural	1	2	The athletes discourage the person.
-The athletes confuse	The athletes confuses	plural	1	2	The athletes confuse the person.
-The athletes understand	The athletes understands	plural	1	2	The athletes understand the person.
-The athletes greet	The athletes greets	plural	1	2	The athletes greet the person.
-The athletes know	The athletes knows	plural	1	2	The athletes know the person.
-The athletes observe	The athletes observes	plural	1	2	The athletes observe the person.
-The athletes stimulate	The athletes stimulates	plural	1	2	The athletes stimulate the person.
-The athletes admire	The athletes admires	plural	1	2	The athletes admire the person.
-The athletes inspire	The athletes inspires	plural	1	2	The athletes inspire the person.
-The athletes remember	The athletes remembers	plural	1	2	The athletes remember the person.
-The friends avoid	The friends avoids	plural	1	2	The friends avoid the person.
-The friends criticize	The friends criticizes	plural	1	2	The friends criticize the person.
-The friends encourage	The friends encourages	plural	1	2	The friends encourage the person.
-The friends discourage	The friends discourages	plural	1	2	The friends discourage the person.
-The friends confuse	The friends confuses	plural	1	2	The friends confuse the person.
-The friends understand	The friends understands	plural	1	2	The friends understand the person.
-The friends greet	The friends greets	plural	1	2	The friends greet the person.
-The friends know	The friends knows	plural	1	2	The friends know the person.
-The friends observe	The friends observes	plural	1	2	The friends observe the person.
-The friends stimulate	The friends stimulates	plural	1	2	The friends stimulate the person.
-The friends admire	The friends admires	plural	1	2	The friends admire the person.
-The friends inspire	The friends inspires	plural	1	2	The friends inspire the person.
-The friends remember	The friends remembers	plural	1	2	The friends remember the person.
-The kids avoid	The kids avoids	plural	1	2	The kids avoid the person.
-The kids criticize	The kids criticizes	plural	1	2	The kids criticize the person.
-The kids encourage	The kids encourages	plural	1	2	The kids encourage the person.
-The kids discourage	The kids discourages	plural	1	2	The kids discourage the person.
-The kids confuse	The kids confuses	plural	1	2	The kids confuse the person.
-The kids understand	The kids understands	plural	1	2	The kids understand the person.
-The kids greet	The kids greets	plural	1	2	The kids greet the person.
-The kids know	The kids knows	plural	1	2	The kids know the person.
-The kids observe	The kids observes	plural	1	2	The kids observe the person.
-The kids stimulate	The kids stimulates	plural	1	2	The kids stimulate the person.
-The kids admire	The kids admires	plural	1	2	The kids admire the person.
-The kids inspire	The kids inspires	plural	1	2	The kids inspire the person.
-The kids remember	The kids remembers	plural	1	2	The kids remember the person.
-The lawyers avoid	The lawyers avoids	plural	1	2	The lawyers avoid the person.
-The lawyers criticize	The lawyers criticizes	plural	1	2	The lawyers criticize the person.
-The lawyers encourage	The lawyers encourages	plural	1	2	The lawyers encourage the person.
-The lawyers discourage	The lawyers discourages	plural	1	2	The lawyers discourage the person.
-The lawyers confuse	The lawyers confuses	plural	1	2	The lawyers confuse the person.
-The lawyers understand	The lawyers understands	plural	1	2	The lawyers understand the person.
-The lawyers greet	The lawyers greets	plural	1	2	The lawyers greet the person.
-The lawyers know	The lawyers knows	plural	1	2	The lawyers know the person.
-The lawyers observe	The lawyers observes	plural	1	2	The lawyers observe the person.
-The lawyers stimulate	The lawyers stimulates	plural	1	2	The lawyers stimulate the person.
-The lawyers admire	The lawyers admires	plural	1	2	The lawyers admire the person.
-The lawyers inspire	The lawyers inspires	plural	1	2	The lawyers inspire the person.
-The lawyers remember	The lawyers remembers	plural	1	2	The lawyers remember the person.
-The guys avoid	The guys avoids	plural	1	2	The guys avoid the person.
-The guys criticize	The guys criticizes	plural	1	2	The guys criticize the person.
-The guys encourage	The guys encourages	plural	1	2	The guys encourage the person.
-The guys discourage	The guys discourages	plural	1	2	The guys discourage the person.
-The guys confuse	The guys confuses	plural	1	2	The guys confuse the person.
-The guys understand	The guys understands	plural	1	2	The guys understand the person.
-The guys greet	The guys greets	plural	1	2	The guys greet the person.
-The guys know	The guys knows	plural	1	2	The guys know the person.
-The guys observe	The guys observes	plural	1	2	The guys observe the person.
-The guys stimulate	The guys stimulates	plural	1	2	The guys stimulate the person.
-The guys admire	The guys admires	plural	1	2	The guys admire the person.
-The guys inspire	The guys inspires	plural	1	2	The guys inspire the person.
-The guys remember	The guys remembers	plural	1	2	The guys remember the person.
-The mothers avoid	The mothers avoids	plural	1	2	The mothers avoid the person.
-The mothers criticize	The mothers criticizes	plural	1	2	The mothers criticize the person.
-The mothers encourage	The mothers encourages	plural	1	2	The mothers encourage the person.
-The mothers discourage	The mothers discourages	plural	1	2	The mothers discourage the person.
-The mothers confuse	The mothers confuses	plural	1	2	The mothers confuse the person.
-The mothers understand	The mothers understands	plural	1	2	The mothers understand the person.
-The mothers greet	The mothers greets	plural	1	2	The mothers greet the person.
-The mothers know	The mothers knows	plural	1	2	The mothers know the person.
-The mothers observe	The mothers observes	plural	1	2	The mothers observe the person.
-The mothers stimulate	The mothers stimulates	plural	1	2	The mothers stimulate the person.
-The mothers admire	The mothers admires	plural	1	2	The mothers admire the person.
-The mothers inspire	The mothers inspires	plural	1	2	The mothers inspire the person.
-The mothers remember	The mothers remembers	plural	1	2	The mothers remember the person.
-The women avoid	The women avoids	plural	1	2	The women avoid the person.
-The women criticize	The women criticizes	plural	1	2	The women criticize the person.
-The women encourage	The women encourages	plural	1	2	The women encourage the person.
-The women discourage	The women discourages	plural	1	2	The women discourage the person.
-The women confuse	The women confuses	plural	1	2	The women confuse the person.
-The women understand	The women understands	plural	1	2	The women understand the person.
-The women greet	The women greets	plural	1	2	The women greet the person.
-The women know	The women knows	plural	1	2	The women know the person.
-The women observe	The women observes	plural	1	2	The women observe the person.
-The women stimulate	The women stimulates	plural	1	2	The women stimulate the person.
-The women admire	The women admires	plural	1	2	The women admire the person.
-The women inspire	The women inspires	plural	1	2	The women inspire the person.
-The women remember	The women remembers	plural	1	2	The women remember the person.
-The fathers avoid	The fathers avoids	plural	1	2	The fathers avoid the person.
-The fathers criticize	The fathers criticizes	plural	1	2	The fathers criticize the person.
-The fathers encourage	The fathers encourages	plural	1	2	The fathers encourage the person.
-The fathers discourage	The fathers discourages	plural	1	2	The fathers discourage the person.
-The fathers confuse	The fathers confuses	plural	1	2	The fathers confuse the person.
-The fathers understand	The fathers understands	plural	1	2	The fathers understand the person.
-The fathers greet	The fathers greets	plural	1	2	The fathers greet the person.
-The fathers know	The fathers knows	plural	1	2	The fathers know the person.
-The fathers observe	The fathers observes	plural	1	2	The fathers observe the person.
-The fathers stimulate	The fathers stimulates	plural	1	2	The fathers stimulate the person.
-The fathers admire	The fathers admires	plural	1	2	The fathers admire the person.
-The fathers inspire	The fathers inspires	plural	1	2	The fathers inspire the person.
-The fathers remember	The fathers remembers	plural	1	2	The fathers remember the person.
-The boys avoid	The boys avoids	plural	1	2	The boys avoid the person.
-The boys criticize	The boys criticizes	plural	1	2	The boys criticize the person.
-The boys encourage	The boys encourages	plural	1	2	The boys encourage the person.
-The boys discourage	The boys discourages	plural	1	2	The boys discourage the person.
-The boys confuse	The boys confuses	plural	1	2	The boys confuse the person.
-The boys understand	The boys understands	plural	1	2	The boys understand the person.
-The boys greet	The boys greets	plural	1	2	The boys greet the person.
-The boys know	The boys knows	plural	1	2	The boys know the person.
-The boys observe	The boys observes	plural	1	2	The boys observe the person.
-The boys stimulate	The boys stimulates	plural	1	2	The boys stimulate the person.
-The boys admire	The boys admires	plural	1	2	The boys admire the person.
-The boys inspire	The boys inspires	plural	1	2	The boys inspire the person.
-The boys remember	The boys remembers	plural	1	2	The boys remember the person.
-The carpenters avoid	The carpenters avoids	plural	1	2	The carpenters avoid the person.
-The carpenters criticize	The carpenters criticizes	plural	1	2	The carpenters criticize the person.
-The carpenters encourage	The carpenters encourages	plural	1	2	The carpenters encourage the person.
-The carpenters discourage	The carpenters discourages	plural	1	2	The carpenters discourage the person.
-The carpenters confuse	The carpenters confuses	plural	1	2	The carpenters confuse the person.
-The carpenters understand	The carpenters understands	plural	1	2	The carpenters understand the person.
-The carpenters greet	The carpenters greets	plural	1	2	The carpenters greet the person.
-The carpenters know	The carpenters knows	plural	1	2	The carpenters know the person.
-The carpenters observe	The carpenters observes	plural	1	2	The carpenters observe the person.
-The carpenters stimulate	The carpenters stimulates	plural	1	2	The carpenters stimulate the person.
-The carpenters admire	The carpenters admires	plural	1	2	The carpenters admire the person.
-The carpenters inspire	The carpenters inspires	plural	1	2	The carpenters inspire the person.
-The carpenters remember	The carpenters remembers	plural	1	2	The carpenters remember the person.
-The girls avoid	The girls avoids	plural	1	2	The girls avoid the person.
-The girls criticize	The girls criticizes	plural	1	2	The girls criticize the person.
-The girls encourage	The girls encourages	plural	1	2	The girls encourage the person.
-The girls discourage	The girls discourages	plural	1	2	The girls discourage the person.
-The girls confuse	The girls confuses	plural	1	2	The girls confuse the person.
-The girls understand	The girls understands	plural	1	2	The girls understand the person.
-The girls greet	The girls greets	plural	1	2	The girls greet the person.
-The girls know	The girls knows	plural	1	2	The girls know the person.
-The girls observe	The girls observes	plural	1	2	The girls observe the person.
-The girls stimulate	The girls stimulates	plural	1	2	The girls stimulate the person.
-The girls admire	The girls admires	plural	1	2	The girls admire the person.
-The girls inspire	The girls inspires	plural	1	2	The girls inspire the person.
-The girls remember	The girls remembers	plural	1	2	The girls remember the person.
+The father stimulates	The father stimulate	singular	1	2	The father stimulates the person .
+The father remembers	The father remember	singular	1	2	The father remembers the person .
+The father knows	The father know	singular	1	2	The father knows the person .
+The father understands	The father understand	singular	1	2	The father understands the person .
+The father observes	The father observe	singular	1	2	The father observes the person .
+The father encourages	The father encourage	singular	1	2	The father encourages the person .
+The father avoids	The father avoid	singular	1	2	The father avoids the person .
+The father discourages	The father discourage	singular	1	2	The father discourages the person .
+The father admires	The father admire	singular	1	2	The father admires the person .
+The father greets	The father greet	singular	1	2	The father greets the person .
+The father inspires	The father inspire	singular	1	2	The father inspires the person .
+The father confuses	The father confuse	singular	1	2	The father confuses the person .
+The father criticizes	The father criticize	singular	1	2	The father criticizes the person .
+The farmer stimulates	The farmer stimulate	singular	1	2	The farmer stimulates the person .
+The farmer remembers	The farmer remember	singular	1	2	The farmer remembers the person .
+The farmer knows	The farmer know	singular	1	2	The farmer knows the person .
+The farmer understands	The farmer understand	singular	1	2	The farmer understands the person .
+The farmer observes	The farmer observe	singular	1	2	The farmer observes the person .
+The farmer encourages	The farmer encourage	singular	1	2	The farmer encourages the person .
+The farmer avoids	The farmer avoid	singular	1	2	The farmer avoids the person .
+The farmer discourages	The farmer discourage	singular	1	2	The farmer discourages the person .
+The farmer admires	The farmer admire	singular	1	2	The farmer admires the person .
+The farmer greets	The farmer greet	singular	1	2	The farmer greets the person .
+The farmer inspires	The farmer inspire	singular	1	2	The farmer inspires the person .
+The farmer confuses	The farmer confuse	singular	1	2	The farmer confuses the person .
+The farmer criticizes	The farmer criticize	singular	1	2	The farmer criticizes the person .
+The doctor stimulates	The doctor stimulate	singular	1	2	The doctor stimulates the person .
+The doctor remembers	The doctor remember	singular	1	2	The doctor remembers the person .
+The doctor knows	The doctor know	singular	1	2	The doctor knows the person .
+The doctor understands	The doctor understand	singular	1	2	The doctor understands the person .
+The doctor observes	The doctor observe	singular	1	2	The doctor observes the person .
+The doctor encourages	The doctor encourage	singular	1	2	The doctor encourages the person .
+The doctor avoids	The doctor avoid	singular	1	2	The doctor avoids the person .
+The doctor discourages	The doctor discourage	singular	1	2	The doctor discourages the person .
+The doctor admires	The doctor admire	singular	1	2	The doctor admires the person .
+The doctor greets	The doctor greet	singular	1	2	The doctor greets the person .
+The doctor inspires	The doctor inspire	singular	1	2	The doctor inspires the person .
+The doctor confuses	The doctor confuse	singular	1	2	The doctor confuses the person .
+The doctor criticizes	The doctor criticize	singular	1	2	The doctor criticizes the person .
+The mother stimulates	The mother stimulate	singular	1	2	The mother stimulates the person .
+The mother remembers	The mother remember	singular	1	2	The mother remembers the person .
+The mother knows	The mother know	singular	1	2	The mother knows the person .
+The mother understands	The mother understand	singular	1	2	The mother understands the person .
+The mother observes	The mother observe	singular	1	2	The mother observes the person .
+The mother encourages	The mother encourage	singular	1	2	The mother encourages the person .
+The mother avoids	The mother avoid	singular	1	2	The mother avoids the person .
+The mother discourages	The mother discourage	singular	1	2	The mother discourages the person .
+The mother admires	The mother admire	singular	1	2	The mother admires the person .
+The mother greets	The mother greet	singular	1	2	The mother greets the person .
+The mother inspires	The mother inspire	singular	1	2	The mother inspires the person .
+The mother confuses	The mother confuse	singular	1	2	The mother confuses the person .
+The mother criticizes	The mother criticize	singular	1	2	The mother criticizes the person .
+The man stimulates	The man stimulate	singular	1	2	The man stimulates the person .
+The man remembers	The man remember	singular	1	2	The man remembers the person .
+The man knows	The man know	singular	1	2	The man knows the person .
+The man understands	The man understand	singular	1	2	The man understands the person .
+The man observes	The man observe	singular	1	2	The man observes the person .
+The man encourages	The man encourage	singular	1	2	The man encourages the person .
+The man avoids	The man avoid	singular	1	2	The man avoids the person .
+The man discourages	The man discourage	singular	1	2	The man discourages the person .
+The man admires	The man admire	singular	1	2	The man admires the person .
+The man greets	The man greet	singular	1	2	The man greets the person .
+The man inspires	The man inspire	singular	1	2	The man inspires the person .
+The man confuses	The man confuse	singular	1	2	The man confuses the person .
+The man criticizes	The man criticize	singular	1	2	The man criticizes the person .
+The girl stimulates	The girl stimulate	singular	1	2	The girl stimulates the person .
+The girl remembers	The girl remember	singular	1	2	The girl remembers the person .
+The girl knows	The girl know	singular	1	2	The girl knows the person .
+The girl understands	The girl understand	singular	1	2	The girl understands the person .
+The girl observes	The girl observe	singular	1	2	The girl observes the person .
+The girl encourages	The girl encourage	singular	1	2	The girl encourages the person .
+The girl avoids	The girl avoid	singular	1	2	The girl avoids the person .
+The girl discourages	The girl discourage	singular	1	2	The girl discourages the person .
+The girl admires	The girl admire	singular	1	2	The girl admires the person .
+The girl greets	The girl greet	singular	1	2	The girl greets the person .
+The girl inspires	The girl inspire	singular	1	2	The girl inspires the person .
+The girl confuses	The girl confuse	singular	1	2	The girl confuses the person .
+The girl criticizes	The girl criticize	singular	1	2	The girl criticizes the person .
+The teacher stimulates	The teacher stimulate	singular	1	2	The teacher stimulates the person .
+The teacher remembers	The teacher remember	singular	1	2	The teacher remembers the person .
+The teacher knows	The teacher know	singular	1	2	The teacher knows the person .
+The teacher understands	The teacher understand	singular	1	2	The teacher understands the person .
+The teacher observes	The teacher observe	singular	1	2	The teacher observes the person .
+The teacher encourages	The teacher encourage	singular	1	2	The teacher encourages the person .
+The teacher avoids	The teacher avoid	singular	1	2	The teacher avoids the person .
+The teacher discourages	The teacher discourage	singular	1	2	The teacher discourages the person .
+The teacher admires	The teacher admire	singular	1	2	The teacher admires the person .
+The teacher greets	The teacher greet	singular	1	2	The teacher greets the person .
+The teacher inspires	The teacher inspire	singular	1	2	The teacher inspires the person .
+The teacher confuses	The teacher confuse	singular	1	2	The teacher confuses the person .
+The teacher criticizes	The teacher criticize	singular	1	2	The teacher criticizes the person .
+The lawyer stimulates	The lawyer stimulate	singular	1	2	The lawyer stimulates the person .
+The lawyer remembers	The lawyer remember	singular	1	2	The lawyer remembers the person .
+The lawyer knows	The lawyer know	singular	1	2	The lawyer knows the person .
+The lawyer understands	The lawyer understand	singular	1	2	The lawyer understands the person .
+The lawyer observes	The lawyer observe	singular	1	2	The lawyer observes the person .
+The lawyer encourages	The lawyer encourage	singular	1	2	The lawyer encourages the person .
+The lawyer avoids	The lawyer avoid	singular	1	2	The lawyer avoids the person .
+The lawyer discourages	The lawyer discourage	singular	1	2	The lawyer discourages the person .
+The lawyer admires	The lawyer admire	singular	1	2	The lawyer admires the person .
+The lawyer greets	The lawyer greet	singular	1	2	The lawyer greets the person .
+The lawyer inspires	The lawyer inspire	singular	1	2	The lawyer inspires the person .
+The lawyer confuses	The lawyer confuse	singular	1	2	The lawyer confuses the person .
+The lawyer criticizes	The lawyer criticize	singular	1	2	The lawyer criticizes the person .
+The woman stimulates	The woman stimulate	singular	1	2	The woman stimulates the person .
+The woman remembers	The woman remember	singular	1	2	The woman remembers the person .
+The woman knows	The woman know	singular	1	2	The woman knows the person .
+The woman understands	The woman understand	singular	1	2	The woman understands the person .
+The woman observes	The woman observe	singular	1	2	The woman observes the person .
+The woman encourages	The woman encourage	singular	1	2	The woman encourages the person .
+The woman avoids	The woman avoid	singular	1	2	The woman avoids the person .
+The woman discourages	The woman discourage	singular	1	2	The woman discourages the person .
+The woman admires	The woman admire	singular	1	2	The woman admires the person .
+The woman greets	The woman greet	singular	1	2	The woman greets the person .
+The woman inspires	The woman inspire	singular	1	2	The woman inspires the person .
+The woman confuses	The woman confuse	singular	1	2	The woman confuses the person .
+The woman criticizes	The woman criticize	singular	1	2	The woman criticizes the person .
+The victim stimulates	The victim stimulate	singular	1	2	The victim stimulates the person .
+The victim remembers	The victim remember	singular	1	2	The victim remembers the person .
+The victim knows	The victim know	singular	1	2	The victim knows the person .
+The victim understands	The victim understand	singular	1	2	The victim understands the person .
+The victim observes	The victim observe	singular	1	2	The victim observes the person .
+The victim encourages	The victim encourage	singular	1	2	The victim encourages the person .
+The victim avoids	The victim avoid	singular	1	2	The victim avoids the person .
+The victim discourages	The victim discourage	singular	1	2	The victim discourages the person .
+The victim admires	The victim admire	singular	1	2	The victim admires the person .
+The victim greets	The victim greet	singular	1	2	The victim greets the person .
+The victim inspires	The victim inspire	singular	1	2	The victim inspires the person .
+The victim confuses	The victim confuse	singular	1	2	The victim confuses the person .
+The victim criticizes	The victim criticize	singular	1	2	The victim criticizes the person .
+The child stimulates	The child stimulate	singular	1	2	The child stimulates the person .
+The child remembers	The child remember	singular	1	2	The child remembers the person .
+The child knows	The child know	singular	1	2	The child knows the person .
+The child understands	The child understand	singular	1	2	The child understands the person .
+The child observes	The child observe	singular	1	2	The child observes the person .
+The child encourages	The child encourage	singular	1	2	The child encourages the person .
+The child avoids	The child avoid	singular	1	2	The child avoids the person .
+The child discourages	The child discourage	singular	1	2	The child discourages the person .
+The child admires	The child admire	singular	1	2	The child admires the person .
+The child greets	The child greet	singular	1	2	The child greets the person .
+The child inspires	The child inspire	singular	1	2	The child inspires the person .
+The child confuses	The child confuse	singular	1	2	The child confuses the person .
+The child criticizes	The child criticize	singular	1	2	The child criticizes the person .
+The athlete stimulates	The athlete stimulate	singular	1	2	The athlete stimulates the person .
+The athlete remembers	The athlete remember	singular	1	2	The athlete remembers the person .
+The athlete knows	The athlete know	singular	1	2	The athlete knows the person .
+The athlete understands	The athlete understand	singular	1	2	The athlete understands the person .
+The athlete observes	The athlete observe	singular	1	2	The athlete observes the person .
+The athlete encourages	The athlete encourage	singular	1	2	The athlete encourages the person .
+The athlete avoids	The athlete avoid	singular	1	2	The athlete avoids the person .
+The athlete discourages	The athlete discourage	singular	1	2	The athlete discourages the person .
+The athlete admires	The athlete admire	singular	1	2	The athlete admires the person .
+The athlete greets	The athlete greet	singular	1	2	The athlete greets the person .
+The athlete inspires	The athlete inspire	singular	1	2	The athlete inspires the person .
+The athlete confuses	The athlete confuse	singular	1	2	The athlete confuses the person .
+The athlete criticizes	The athlete criticize	singular	1	2	The athlete criticizes the person .
+The poet stimulates	The poet stimulate	singular	1	2	The poet stimulates the person .
+The poet remembers	The poet remember	singular	1	2	The poet remembers the person .
+The poet knows	The poet know	singular	1	2	The poet knows the person .
+The poet understands	The poet understand	singular	1	2	The poet understands the person .
+The poet observes	The poet observe	singular	1	2	The poet observes the person .
+The poet encourages	The poet encourage	singular	1	2	The poet encourages the person .
+The poet avoids	The poet avoid	singular	1	2	The poet avoids the person .
+The poet discourages	The poet discourage	singular	1	2	The poet discourages the person .
+The poet admires	The poet admire	singular	1	2	The poet admires the person .
+The poet greets	The poet greet	singular	1	2	The poet greets the person .
+The poet inspires	The poet inspire	singular	1	2	The poet inspires the person .
+The poet confuses	The poet confuse	singular	1	2	The poet confuses the person .
+The poet criticizes	The poet criticize	singular	1	2	The poet criticizes the person .
+The friend stimulates	The friend stimulate	singular	1	2	The friend stimulates the person .
+The friend remembers	The friend remember	singular	1	2	The friend remembers the person .
+The friend knows	The friend know	singular	1	2	The friend knows the person .
+The friend understands	The friend understand	singular	1	2	The friend understands the person .
+The friend observes	The friend observe	singular	1	2	The friend observes the person .
+The friend encourages	The friend encourage	singular	1	2	The friend encourages the person .
+The friend avoids	The friend avoid	singular	1	2	The friend avoids the person .
+The friend discourages	The friend discourage	singular	1	2	The friend discourages the person .
+The friend admires	The friend admire	singular	1	2	The friend admires the person .
+The friend greets	The friend greet	singular	1	2	The friend greets the person .
+The friend inspires	The friend inspire	singular	1	2	The friend inspires the person .
+The friend confuses	The friend confuse	singular	1	2	The friend confuses the person .
+The friend criticizes	The friend criticize	singular	1	2	The friend criticizes the person .
+The boy stimulates	The boy stimulate	singular	1	2	The boy stimulates the person .
+The boy remembers	The boy remember	singular	1	2	The boy remembers the person .
+The boy knows	The boy know	singular	1	2	The boy knows the person .
+The boy understands	The boy understand	singular	1	2	The boy understands the person .
+The boy observes	The boy observe	singular	1	2	The boy observes the person .
+The boy encourages	The boy encourage	singular	1	2	The boy encourages the person .
+The boy avoids	The boy avoid	singular	1	2	The boy avoids the person .
+The boy discourages	The boy discourage	singular	1	2	The boy discourages the person .
+The boy admires	The boy admire	singular	1	2	The boy admires the person .
+The boy greets	The boy greet	singular	1	2	The boy greets the person .
+The boy inspires	The boy inspire	singular	1	2	The boy inspires the person .
+The boy confuses	The boy confuse	singular	1	2	The boy confuses the person .
+The boy criticizes	The boy criticize	singular	1	2	The boy criticizes the person .
+The fathers stimulate	The fathers stimulates	plural	1	2	The fathers stimulate the person .
+The fathers remember	The fathers remembers	plural	1	2	The fathers remember the person .
+The fathers know	The fathers knows	plural	1	2	The fathers know the person .
+The fathers understand	The fathers understands	plural	1	2	The fathers understand the person .
+The fathers observe	The fathers observes	plural	1	2	The fathers observe the person .
+The fathers encourage	The fathers encourages	plural	1	2	The fathers encourage the person .
+The fathers avoid	The fathers avoids	plural	1	2	The fathers avoid the person .
+The fathers discourage	The fathers discourages	plural	1	2	The fathers discourage the person .
+The fathers admire	The fathers admires	plural	1	2	The fathers admire the person .
+The fathers greet	The fathers greets	plural	1	2	The fathers greet the person .
+The fathers inspire	The fathers inspires	plural	1	2	The fathers inspire the person .
+The fathers confuse	The fathers confuses	plural	1	2	The fathers confuse the person .
+The fathers criticize	The fathers criticizes	plural	1	2	The fathers criticize the person .
+The farmers stimulate	The farmers stimulates	plural	1	2	The farmers stimulate the person .
+The farmers remember	The farmers remembers	plural	1	2	The farmers remember the person .
+The farmers know	The farmers knows	plural	1	2	The farmers know the person .
+The farmers understand	The farmers understands	plural	1	2	The farmers understand the person .
+The farmers observe	The farmers observes	plural	1	2	The farmers observe the person .
+The farmers encourage	The farmers encourages	plural	1	2	The farmers encourage the person .
+The farmers avoid	The farmers avoids	plural	1	2	The farmers avoid the person .
+The farmers discourage	The farmers discourages	plural	1	2	The farmers discourage the person .
+The farmers admire	The farmers admires	plural	1	2	The farmers admire the person .
+The farmers greet	The farmers greets	plural	1	2	The farmers greet the person .
+The farmers inspire	The farmers inspires	plural	1	2	The farmers inspire the person .
+The farmers confuse	The farmers confuses	plural	1	2	The farmers confuse the person .
+The farmers criticize	The farmers criticizes	plural	1	2	The farmers criticize the person .
+The doctors stimulate	The doctors stimulates	plural	1	2	The doctors stimulate the person .
+The doctors remember	The doctors remembers	plural	1	2	The doctors remember the person .
+The doctors know	The doctors knows	plural	1	2	The doctors know the person .
+The doctors understand	The doctors understands	plural	1	2	The doctors understand the person .
+The doctors observe	The doctors observes	plural	1	2	The doctors observe the person .
+The doctors encourage	The doctors encourages	plural	1	2	The doctors encourage the person .
+The doctors avoid	The doctors avoids	plural	1	2	The doctors avoid the person .
+The doctors discourage	The doctors discourages	plural	1	2	The doctors discourage the person .
+The doctors admire	The doctors admires	plural	1	2	The doctors admire the person .
+The doctors greet	The doctors greets	plural	1	2	The doctors greet the person .
+The doctors inspire	The doctors inspires	plural	1	2	The doctors inspire the person .
+The doctors confuse	The doctors confuses	plural	1	2	The doctors confuse the person .
+The doctors criticize	The doctors criticizes	plural	1	2	The doctors criticize the person .
+The mothers stimulate	The mothers stimulates	plural	1	2	The mothers stimulate the person .
+The mothers remember	The mothers remembers	plural	1	2	The mothers remember the person .
+The mothers know	The mothers knows	plural	1	2	The mothers know the person .
+The mothers understand	The mothers understands	plural	1	2	The mothers understand the person .
+The mothers observe	The mothers observes	plural	1	2	The mothers observe the person .
+The mothers encourage	The mothers encourages	plural	1	2	The mothers encourage the person .
+The mothers avoid	The mothers avoids	plural	1	2	The mothers avoid the person .
+The mothers discourage	The mothers discourages	plural	1	2	The mothers discourage the person .
+The mothers admire	The mothers admires	plural	1	2	The mothers admire the person .
+The mothers greet	The mothers greets	plural	1	2	The mothers greet the person .
+The mothers inspire	The mothers inspires	plural	1	2	The mothers inspire the person .
+The mothers confuse	The mothers confuses	plural	1	2	The mothers confuse the person .
+The mothers criticize	The mothers criticizes	plural	1	2	The mothers criticize the person .
+The men stimulate	The men stimulates	plural	1	2	The men stimulate the person .
+The men remember	The men remembers	plural	1	2	The men remember the person .
+The men know	The men knows	plural	1	2	The men know the person .
+The men understand	The men understands	plural	1	2	The men understand the person .
+The men observe	The men observes	plural	1	2	The men observe the person .
+The men encourage	The men encourages	plural	1	2	The men encourage the person .
+The men avoid	The men avoids	plural	1	2	The men avoid the person .
+The men discourage	The men discourages	plural	1	2	The men discourage the person .
+The men admire	The men admires	plural	1	2	The men admire the person .
+The men greet	The men greets	plural	1	2	The men greet the person .
+The men inspire	The men inspires	plural	1	2	The men inspire the person .
+The men confuse	The men confuses	plural	1	2	The men confuse the person .
+The men criticize	The men criticizes	plural	1	2	The men criticize the person .
+The girls stimulate	The girls stimulates	plural	1	2	The girls stimulate the person .
+The girls remember	The girls remembers	plural	1	2	The girls remember the person .
+The girls know	The girls knows	plural	1	2	The girls know the person .
+The girls understand	The girls understands	plural	1	2	The girls understand the person .
+The girls observe	The girls observes	plural	1	2	The girls observe the person .
+The girls encourage	The girls encourages	plural	1	2	The girls encourage the person .
+The girls avoid	The girls avoids	plural	1	2	The girls avoid the person .
+The girls discourage	The girls discourages	plural	1	2	The girls discourage the person .
+The girls admire	The girls admires	plural	1	2	The girls admire the person .
+The girls greet	The girls greets	plural	1	2	The girls greet the person .
+The girls inspire	The girls inspires	plural	1	2	The girls inspire the person .
+The girls confuse	The girls confuses	plural	1	2	The girls confuse the person .
+The girls criticize	The girls criticizes	plural	1	2	The girls criticize the person .
+The teachers stimulate	The teachers stimulates	plural	1	2	The teachers stimulate the person .
+The teachers remember	The teachers remembers	plural	1	2	The teachers remember the person .
+The teachers know	The teachers knows	plural	1	2	The teachers know the person .
+The teachers understand	The teachers understands	plural	1	2	The teachers understand the person .
+The teachers observe	The teachers observes	plural	1	2	The teachers observe the person .
+The teachers encourage	The teachers encourages	plural	1	2	The teachers encourage the person .
+The teachers avoid	The teachers avoids	plural	1	2	The teachers avoid the person .
+The teachers discourage	The teachers discourages	plural	1	2	The teachers discourage the person .
+The teachers admire	The teachers admires	plural	1	2	The teachers admire the person .
+The teachers greet	The teachers greets	plural	1	2	The teachers greet the person .
+The teachers inspire	The teachers inspires	plural	1	2	The teachers inspire the person .
+The teachers confuse	The teachers confuses	plural	1	2	The teachers confuse the person .
+The teachers criticize	The teachers criticizes	plural	1	2	The teachers criticize the person .
+The lawyers stimulate	The lawyers stimulates	plural	1	2	The lawyers stimulate the person .
+The lawyers remember	The lawyers remembers	plural	1	2	The lawyers remember the person .
+The lawyers know	The lawyers knows	plural	1	2	The lawyers know the person .
+The lawyers understand	The lawyers understands	plural	1	2	The lawyers understand the person .
+The lawyers observe	The lawyers observes	plural	1	2	The lawyers observe the person .
+The lawyers encourage	The lawyers encourages	plural	1	2	The lawyers encourage the person .
+The lawyers avoid	The lawyers avoids	plural	1	2	The lawyers avoid the person .
+The lawyers discourage	The lawyers discourages	plural	1	2	The lawyers discourage the person .
+The lawyers admire	The lawyers admires	plural	1	2	The lawyers admire the person .
+The lawyers greet	The lawyers greets	plural	1	2	The lawyers greet the person .
+The lawyers inspire	The lawyers inspires	plural	1	2	The lawyers inspire the person .
+The lawyers confuse	The lawyers confuses	plural	1	2	The lawyers confuse the person .
+The lawyers criticize	The lawyers criticizes	plural	1	2	The lawyers criticize the person .
+The women stimulate	The women stimulates	plural	1	2	The women stimulate the person .
+The women remember	The women remembers	plural	1	2	The women remember the person .
+The women know	The women knows	plural	1	2	The women know the person .
+The women understand	The women understands	plural	1	2	The women understand the person .
+The women observe	The women observes	plural	1	2	The women observe the person .
+The women encourage	The women encourages	plural	1	2	The women encourage the person .
+The women avoid	The women avoids	plural	1	2	The women avoid the person .
+The women discourage	The women discourages	plural	1	2	The women discourage the person .
+The women admire	The women admires	plural	1	2	The women admire the person .
+The women greet	The women greets	plural	1	2	The women greet the person .
+The women inspire	The women inspires	plural	1	2	The women inspire the person .
+The women confuse	The women confuses	plural	1	2	The women confuse the person .
+The women criticize	The women criticizes	plural	1	2	The women criticize the person .
+The victims stimulate	The victims stimulates	plural	1	2	The victims stimulate the person .
+The victims remember	The victims remembers	plural	1	2	The victims remember the person .
+The victims know	The victims knows	plural	1	2	The victims know the person .
+The victims understand	The victims understands	plural	1	2	The victims understand the person .
+The victims observe	The victims observes	plural	1	2	The victims observe the person .
+The victims encourage	The victims encourages	plural	1	2	The victims encourage the person .
+The victims avoid	The victims avoids	plural	1	2	The victims avoid the person .
+The victims discourage	The victims discourages	plural	1	2	The victims discourage the person .
+The victims admire	The victims admires	plural	1	2	The victims admire the person .
+The victims greet	The victims greets	plural	1	2	The victims greet the person .
+The victims inspire	The victims inspires	plural	1	2	The victims inspire the person .
+The victims confuse	The victims confuses	plural	1	2	The victims confuse the person .
+The victims criticize	The victims criticizes	plural	1	2	The victims criticize the person .
+The children stimulate	The children stimulates	plural	1	2	The children stimulate the person .
+The children remember	The children remembers	plural	1	2	The children remember the person .
+The children know	The children knows	plural	1	2	The children know the person .
+The children understand	The children understands	plural	1	2	The children understand the person .
+The children observe	The children observes	plural	1	2	The children observe the person .
+The children encourage	The children encourages	plural	1	2	The children encourage the person .
+The children avoid	The children avoids	plural	1	2	The children avoid the person .
+The children discourage	The children discourages	plural	1	2	The children discourage the person .
+The children admire	The children admires	plural	1	2	The children admire the person .
+The children greet	The children greets	plural	1	2	The children greet the person .
+The children inspire	The children inspires	plural	1	2	The children inspire the person .
+The children confuse	The children confuses	plural	1	2	The children confuse the person .
+The children criticize	The children criticizes	plural	1	2	The children criticize the person .
+The athletes stimulate	The athletes stimulates	plural	1	2	The athletes stimulate the person .
+The athletes remember	The athletes remembers	plural	1	2	The athletes remember the person .
+The athletes know	The athletes knows	plural	1	2	The athletes know the person .
+The athletes understand	The athletes understands	plural	1	2	The athletes understand the person .
+The athletes observe	The athletes observes	plural	1	2	The athletes observe the person .
+The athletes encourage	The athletes encourages	plural	1	2	The athletes encourage the person .
+The athletes avoid	The athletes avoids	plural	1	2	The athletes avoid the person .
+The athletes discourage	The athletes discourages	plural	1	2	The athletes discourage the person .
+The athletes admire	The athletes admires	plural	1	2	The athletes admire the person .
+The athletes greet	The athletes greets	plural	1	2	The athletes greet the person .
+The athletes inspire	The athletes inspires	plural	1	2	The athletes inspire the person .
+The athletes confuse	The athletes confuses	plural	1	2	The athletes confuse the person .
+The athletes criticize	The athletes criticizes	plural	1	2	The athletes criticize the person .
+The poets stimulate	The poets stimulates	plural	1	2	The poets stimulate the person .
+The poets remember	The poets remembers	plural	1	2	The poets remember the person .
+The poets know	The poets knows	plural	1	2	The poets know the person .
+The poets understand	The poets understands	plural	1	2	The poets understand the person .
+The poets observe	The poets observes	plural	1	2	The poets observe the person .
+The poets encourage	The poets encourages	plural	1	2	The poets encourage the person .
+The poets avoid	The poets avoids	plural	1	2	The poets avoid the person .
+The poets discourage	The poets discourages	plural	1	2	The poets discourage the person .
+The poets admire	The poets admires	plural	1	2	The poets admire the person .
+The poets greet	The poets greets	plural	1	2	The poets greet the person .
+The poets inspire	The poets inspires	plural	1	2	The poets inspire the person .
+The poets confuse	The poets confuses	plural	1	2	The poets confuse the person .
+The poets criticize	The poets criticizes	plural	1	2	The poets criticize the person .
+The friends stimulate	The friends stimulates	plural	1	2	The friends stimulate the person .
+The friends remember	The friends remembers	plural	1	2	The friends remember the person .
+The friends know	The friends knows	plural	1	2	The friends know the person .
+The friends understand	The friends understands	plural	1	2	The friends understand the person .
+The friends observe	The friends observes	plural	1	2	The friends observe the person .
+The friends encourage	The friends encourages	plural	1	2	The friends encourage the person .
+The friends avoid	The friends avoids	plural	1	2	The friends avoid the person .
+The friends discourage	The friends discourages	plural	1	2	The friends discourage the person .
+The friends admire	The friends admires	plural	1	2	The friends admire the person .
+The friends greet	The friends greets	plural	1	2	The friends greet the person .
+The friends inspire	The friends inspires	plural	1	2	The friends inspire the person .
+The friends confuse	The friends confuses	plural	1	2	The friends confuse the person .
+The friends criticize	The friends criticizes	plural	1	2	The friends criticize the person .
+The boys stimulate	The boys stimulates	plural	1	2	The boys stimulate the person .
+The boys remember	The boys remembers	plural	1	2	The boys remember the person .
+The boys know	The boys knows	plural	1	2	The boys know the person .
+The boys understand	The boys understands	plural	1	2	The boys understand the person .
+The boys observe	The boys observes	plural	1	2	The boys observe the person .
+The boys encourage	The boys encourages	plural	1	2	The boys encourage the person .
+The boys avoid	The boys avoids	plural	1	2	The boys avoid the person .
+The boys discourage	The boys discourages	plural	1	2	The boys discourage the person .
+The boys admire	The boys admires	plural	1	2	The boys admire the person .
+The boys greet	The boys greets	plural	1	2	The boys greet the person .
+The boys inspire	The boys inspires	plural	1	2	The boys inspire the person .
+The boys confuse	The boys confuses	plural	1	2	The boys confuse the person .
+The boys criticize	The boys criticizes	plural	1	2	The boys criticize the person .
